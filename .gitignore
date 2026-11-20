@@ -1,3 +1,2 @@
 __pycache__/
-engine[0-9].py
-engine8.py
+engine*.py
